@@ -1,5 +1,9 @@
 # Titulo Principal
 ## Titulo Secundário
-### Titulo Terciário
 
 esse projeto é para aprender sobre git e github
+
+**LISTA**
+- Item 1
+- Item 2
+- Item 3
